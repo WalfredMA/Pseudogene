@@ -6,4 +6,4 @@ It has 7 major components and can be on/off by options.
 
 -----------usage-----------
 
-python2.7 findretro.py -f inputfile [options]
+python2.7 findretro.py -f inputfile -s []
