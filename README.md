@@ -9,3 +9,18 @@ This is a pipeline to discovery and analyze all de novo retro-transcription even
 
 It has four pieces:
 
+  1.find_retro.py	
+  
+  find all psuedo-like genes in de novo assemblies
+  
+  2.find_denovo.py	
+  
+  determine if psuedo-like genes are de novo or not by compared with existing pseudogenes with anchors.
+  
+  3.locate_on_ref.py
+  
+  locate all psuedo-like genes on reference genome
+  
+  4.analysis.py	
+  
+  analyze and determine if psuedo-like genes are retro-transcription events or not.
