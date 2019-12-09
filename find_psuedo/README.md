@@ -49,3 +49,6 @@ If not included, Evaluate all combine-alignments to mRNA and find similarity and
 If not included, Filter low confidence. 
 
 
+-----------outputs-----------
+
+Output a table files.
