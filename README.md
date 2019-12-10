@@ -15,11 +15,11 @@ It has four pieces:
   
   2.find_denovo.py	
   
-  determine if psuedo-like genes are de novo or not by compared with existing pseudogenes with anchors.
+  determine if psuedo-like genes are de novo or not by comparinfg with existing pseudogenes with anchors.
   
   3.locate_on_ref.py
   
-  locate all psuedo-like genes on reference genome
+  locate all psuedo-like genes on the reference genome
   
   4.analysis.py	
   
