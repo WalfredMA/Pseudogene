@@ -46,7 +46,7 @@ If not included, Evaluate all combine-alignments to mRNA and find similarity and
 
 -s:
 
-If not included, Filter low confidence. 
+If not included, Filter low confidence genes. 
 
 
 -----------outputs-----------
