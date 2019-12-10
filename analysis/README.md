@@ -1,8 +1,8 @@
 -----------decription-----------
 
-This is a pipeline analyzes to all located pseudo-like genes based on global alignments tool stretcher.
+This is a pipeline analyzes all located pseudo-like genes based on global alignments.
 
-It categorizes all SV into 5 types: deletion, insertion, rearrangement, duplication and complex.
+It categorizes them into 5 types: deletion, insertion, rearrangement, duplication and complex.
 
 -----------usage-----------
 
