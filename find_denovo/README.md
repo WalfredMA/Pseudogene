@@ -1,8 +1,8 @@
 -----------decription-----------
 
-This is a pipeline to filter all found pseudo-like genes that already been annotated and included on reference genome.
+This is a pipeline to determine if pseudo-like genes have already been annotated and included on reference genome or not.
 
-It compare psuedogenes and their anchors to reference pseudogenes and their anchors.
+It compare psuedogenes and their anchors to all annotated pseudogenes with anchors.
 
 -----------usage-----------
 
