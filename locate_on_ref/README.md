@@ -1,6 +1,6 @@
 -----------decription-----------
 
-This is a pipeline tries to locate all un-annotated pseudo-like genes back to the reference. Using anchors and blastn.
+This is a pipeline attempts to locate all un-annotated pseudo-like genes back to the reference. Using anchors and blastn.
 
 -----------usage-----------
 
