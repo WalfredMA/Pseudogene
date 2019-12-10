@@ -1,8 +1,8 @@
 -----------decription-----------
 
-This is a pipeline to annotate all pseudo-like genes on assemblies.
+This is a pipeline to annotate all pseudo-like genes on whole genomes.
 
-It has 7 major components and can be on/off by options.
+It has 7 major components, which can be on/off by options.
 
 -----------usage-----------
 
@@ -12,7 +12,7 @@ python2.7 findretro.py -f inputfile [options]
 
 -c inputchrom:
 
-big: all main chromosomes.
+big: all main chromosomes (chr1-chrY).
 all: all chromosomes.
 others: chromosomes separated by ";".
 
